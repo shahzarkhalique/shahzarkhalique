@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a Computer Science student and content creator, from Karachi, Pakistan.</h2>
+<h2 align="left">Hi 👋! My name is Shahzar and I'm a Computer Science graduate (Habib University) and content creator, from Karachi, Pakistan.</h2>
 
 ###
 
