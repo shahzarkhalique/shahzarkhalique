@@ -29,13 +29,13 @@
 ###
 
 <div align="left">
-  <a href="[Your LinkedIn Profile URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/shahzar-khalique-0736b8153/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="[Your Instagram Profile URL]" target="_blank">
+  <a href="https://www.instagram.com/shahzarkhaliq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:[Your Email Address]" target="_blank">
+  <a href="mailto:shahzarkhalique@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
