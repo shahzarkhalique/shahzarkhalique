@@ -24,6 +24,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+   <!-- OpenAI logo -->
+  <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" height="30" alt="OpenAI logo" />
+  <img width="12" />
+  <!-- LangChain logo -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" height="30" alt="LangChain logo" />
+  <img width="12" />
+  <!-- LangSmith logo -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png" height="30" alt="LangSmith logo" />
+  <img width="12" />
+  <!-- Postgres logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <!-- MongoDB logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
 
 ###
